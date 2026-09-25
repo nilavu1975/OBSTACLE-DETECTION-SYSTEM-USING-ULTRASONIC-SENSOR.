@@ -109,6 +109,8 @@ delay(100);
 ```
 
 ## Output:
+<img width="1153" height="572" alt="image" src="https://github.com/user-attachments/assets/7b25d2d0-d665-4826-994f-6e907dc4eea6" />
+
  <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/4ed58261-bdf9-4cdb-8126-32523749546e" />
 
 
